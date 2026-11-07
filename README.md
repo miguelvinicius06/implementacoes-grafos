@@ -7,8 +7,8 @@ Implementações
 - Lista de Arestas
 
 Integrantes
-- Miguel Vinícius
-- Pedro Henrique Vieira
+- Miguel Vinícius RA: 2038440
+- Pedro Henrique Vieira RA: 2039706
 
 
 Linguagem utilizada

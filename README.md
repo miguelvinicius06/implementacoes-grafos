@@ -7,6 +7,8 @@ Implementações
 - Lista de Arestas
 - Lista de Adjacência com Busca em Largura Padrão (BFS)
 - Lista de Adjacência com Busca de Menor Caminho (BFS)
+- Lista de Adjacência com Busca em Profundidade Padrão (DFS)
+- Lista de Adjacência com Detecção de Ciclos utilizando Busca em Profundidade (DFS)
 
 Integrantes
 - Miguel Vinícius RA: 2038440

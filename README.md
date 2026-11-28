@@ -1,5 +1,5 @@
 Implementações de Grafos
-Trabalho acadêmico sobre estruturas de representação de grafos e algoritmos de busca.
+Trabalho académico sobre estruturas de representação de grafos e algoritmos de busca.
 
 Implementações
 - Lista de Adjacência
@@ -9,6 +9,7 @@ Implementações
 - Lista de Adjacência com Busca de Menor Caminho (BFS)
 - Lista de Adjacência com Busca em Profundidade Padrão (DFS)
 - Lista de Adjacência com Detecção de Ciclos utilizando Busca em Profundidade (DFS)
+- Lista de Adjacência Ponderada com Algoritmo de Dijkstra
 
 Integrantes
 - Miguel Vinícius RA: 2038440
